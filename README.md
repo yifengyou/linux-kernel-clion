@@ -1,2 +1,28 @@
 # linux-kernel-clion
-love linux kernel with clion IDE
+
+love linux kernel coding with clion IDE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
